@@ -66,5 +66,5 @@ while not done:
                     break
             except:
                 pass
-
+serial.close();
 print "Bye!"
